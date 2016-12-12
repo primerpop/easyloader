@@ -17,7 +17,7 @@
  * Published on December 11th 2016 as a result of significant annoyance with crappy implementations
  * like that found and used by composer.  In fact, dropping this into the root of many annoying 
  * composer projects and including easyloader instead often resolves awful bootstrap and autoload 
- * problems.
+ * problems. 
  *  
  * The MIT License (MIT)
  * Copyright (c) 2016 SkinnerCo Paul Skinner skinnerco.ca+easyloader@gmail.com 
