@@ -38,7 +38,7 @@
  */
 
 // Generate a autoload method for this include.
-$autoload_uuid = str_replace("-","_",md5(mt_rand(1,mt_getrandmax())));
+$autoload_uuid = md5(mt_rand(1,mt_getrandmax()));
 $autoloader_method = "skinnerco_autoloader_". $autoload_uuid;
 // manage the global array of autoloaders and their paths
 if (!isset($autoloaders)) {
