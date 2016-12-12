@@ -17,3 +17,11 @@ A general purpose classmapping and auto include script for PHP.
   like that found and used by composer.  In fact, dropping this into the root of many annoying 
   composer projects and including easyloader instead often resolves awful bootstrap and autoload 
   problems.
+
+# Usage
+
+Download or copy and paste into the directory containing your PHP classes and include it
+in an entry point script as you normally would.
+
+include("../easyloader.php");
+
