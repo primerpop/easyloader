@@ -6,7 +6,6 @@
  * it may not be the right fit for you.
  * 
  * Place this script in the root of a project and include in your entry point script.
- 
  * 
  * Recurses all the directories looking for .PHP files to create an association between
  * the filename and a classname.  For instance class hello_world in a PHP file named hello_world.php 
