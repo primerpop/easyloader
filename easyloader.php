@@ -1,6 +1,6 @@
 <?php 
 /**
- * EASYLOADER.PHP
+ * EASYLOADER.PHP v.1.0.0
  * 
  * Maybe the last autoloader you'll ever need for PHP scripts.  While it solves many of my problems,
  * it may not be the right fit for you.
